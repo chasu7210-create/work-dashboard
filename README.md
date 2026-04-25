@@ -11,7 +11,7 @@
 브라우저에서 **우클릭 → 다른 이름으로 저장** 하거나,  
 **Ctrl+S** 로 저장하세요.
 
-🔗 [work-dashboard.html 다운로드](https://raw.githubusercontent.com/chasu7210-create/work-dashboard/main/work-dashboard.html)
+🔗 [work-dashboard.html 다운로드](https://raw.githubusercontent.com/mars-tools/work-dashboard/main/work-dashboard.html)
 
 ---
 
